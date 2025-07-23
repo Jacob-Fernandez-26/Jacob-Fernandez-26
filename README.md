@@ -3,8 +3,13 @@
 <!--
 **Jacob-Fernandez-26/Jacob-Fernandez-26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+
+
+[![GitHub Badge](https://img.shields.io/github/followers/jacobfernandezgochez?style=social)](https://github.com/jacobfernandezgochez?tab=followers)
 Here are some ideas to get you started:
 
+
+![github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Jacob-Fernandez-26&show_icons=true)
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
